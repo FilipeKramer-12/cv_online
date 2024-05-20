@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: "Poppins", sans-serif;
+    background-image: url(../img/bg_body.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+a{
+    text-decoration: none;
+    display: inline-block;
+}
+
+img{max-width: 100%;}
+
+ul{list-style: none;}
+
+button{
+    border: none;
+    background-color: transparent;
+}
